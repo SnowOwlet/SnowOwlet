@@ -16,13 +16,14 @@ I am an Android developer, and always keen to about all kinds of interesting ski
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowOwlet&show_icons=true&hide_title=true&bg_color=00000000"/>
 
 ```
-             _____                     ____  __              __ 
-            / ___/____  ____ _      __/ __ \/ /      _____  / /_
-            \__ \/ __ \/ __ \ | /| / / / / / / | /| / / _ \/ __/
-           ___/ / / / / /_/ / |/ |/ / /_/ / /| |/ |/ /  __/ /_
-          /____/_/ /_/\____/|__/|__/\____/_/ |__/|__/\___/\__/
+      _____                     ____  __              __ 
+     / ___/____  ____ _      __/ __ \/ /      _____  / /_
+     \__ \/ __ \/ __ \ | /| / / / / / / | /| / / _ \/ __/
+    ___/ / / / / /_/ / |/ |/ / /_/ / /| |/ |/ /  __/ /_
+   /____/_/ /_/\____/|__/|__/\____/_/ |__/|__/\___/\__/
 ```
-<img align="right" src="https://github.com/SnowOwlet/netease-cloud-music-card/blob/main/card.svg"/>
+##
+ <img align="right" src="https://github.com/SnowOwlet/netease-cloud-music-card/blob/main/card.svg"/>
 
 
 
